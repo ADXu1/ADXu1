@@ -1,8 +1,18 @@
-# Hello, I'm Chuanji
+<p align="center">
+  <img src="https://example.com/your-logo.gif" alt="Your Logo" width="200"/>
+  <h1 align="center">&emsp;Chuanji Xu&emsp;</h1>
+</p>
 
-I'm a master's student in Artificial Intelligence, dedicated to the following about me:
+<p align="center">
+  <strong>Welcome to my GitHub profile! 👋</strong>
+</p>
 
-- 🚗 I am currently working on end-to-end self-driving car based on
-- 🌱 Mathematical knowledge is especially important and my mathematical studies are ongoing
-- 👓 I welcome mentoring from my seniors
-- 📫 How to contact me: chuanji_xu@163.com
+<p align="center">
+  Here you'll find a collection of my latest projects, contributions, and more. Feel free to explore and connect with me!
+</p>
+
+<p align="center">
+  <a href="chuanji_xu@163.com">Email</a> •
+  <a href="https://zenodo.org/record/8248534">Zenodo</a> •
+  <a href="https://www.youtube.com/channel/UClzET2zuT7idPqvPM3YvIMQ">YouTube</a>
+</p>
