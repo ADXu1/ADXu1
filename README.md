@@ -23,5 +23,5 @@
 2. **Learn English and pass the IELTS exam** (In Progress)
 ### 🧩 Side Missions
 
-1. **Completing "Mathematical Elements" Study Notes** (In Progress) 
+1. **Completing "Elements of Mathematics" Study Notes** (In Progress) 
 
