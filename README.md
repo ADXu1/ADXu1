@@ -16,3 +16,12 @@
   <a href="https://zenodo.org/record/8248534">Zenodo</a> •
   <a href="https://www.youtube.com/channel/UClzET2zuT7idPqvPM3YvIMQ">YouTube</a>
 </p>
+
+### 🎯 Main Missions
+
+1. **Deep Reinforcement Learning for Safe and Trustworthy Autonomous Cars** (In Progress)
+2. **Learn English and pass the IELTS exam** (In Progress)
+### 🧩 Side Missions
+
+1. **Completing "Mathematical Elements" Study Notes** (In Progress) 
+
