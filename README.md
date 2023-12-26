@@ -13,7 +13,6 @@
 ### 🎯 Main Missions
 
 1. **Deep Reinforcement Learning for Safe and Trustworthy Autonomous Cars** (In Progress)
-2. **Learn English and pass the IELTS exam** (In Progress)
 ### 🧩 Side Missions
 
 1. **Completing "Elements of Mathematics" Study Notes** (In Progress) 
