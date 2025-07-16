@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://example.com/your-logo.gif" alt="Your Logo" width="200"/>
   <h1 align="center">&emsp;Chuanji Xu&emsp;</h1>
-  M.S. student with research interests in end-to-end based self-driving cars, interpretability of deep neural network models, and more.
+  Research about Knowledge Graph.
 </p>
 
 <p align="center">
